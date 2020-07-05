@@ -1,0 +1,13 @@
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\bin\Debug\netcoreapp3.1\NetCoreConsoleApp.exe
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\bin\Debug\netcoreapp3.1\NetCoreConsoleApp.deps.json
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\bin\Debug\netcoreapp3.1\NetCoreConsoleApp.runtimeconfig.json
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\bin\Debug\netcoreapp3.1\NetCoreConsoleApp.runtimeconfig.dev.json
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\bin\Debug\netcoreapp3.1\NetCoreConsoleApp.dll
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\bin\Debug\netcoreapp3.1\NetCoreConsoleApp.pdb
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\obj\Debug\netcoreapp3.1\NetCoreConsoleApp.csprojAssemblyReference.cache
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\obj\Debug\netcoreapp3.1\NetCoreConsoleApp.csproj.CoreCompileInputs.cache
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\obj\Debug\netcoreapp3.1\NetCoreConsoleApp.AssemblyInfoInputs.cache
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\obj\Debug\netcoreapp3.1\NetCoreConsoleApp.AssemblyInfo.cs
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\obj\Debug\netcoreapp3.1\NetCoreConsoleApp.dll
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\obj\Debug\netcoreapp3.1\NetCoreConsoleApp.pdb
+C:\demo\reni\NetCoreConsoleApp\NetCoreConsoleApp\obj\Debug\netcoreapp3.1\NetCoreConsoleApp.genruntimeconfig.cache
